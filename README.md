@@ -14,3 +14,5 @@ Simple GUI for rSync. Synchronize `/home` folder (or a subfolder) to another pla
  * PyQt5
  * rSync
  * xterm
+
+![Screenshot](https://raw.githubusercontent.com/hyakosm/PySauv/master/screenshot.png)
